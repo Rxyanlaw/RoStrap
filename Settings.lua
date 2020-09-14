@@ -1,1 +1,10 @@
-local
+{
+  
+  
+  
+  
+  
+  
+  
+  
+  M.ActivationKey = ("")
